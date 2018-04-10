@@ -1,0 +1,17 @@
+ident
+torus
+0 0 0 50 150
+torus
+0 70 0 20 135
+torus
+0 140 0 70 150
+torus
+0 250 0 30 135
+torus
+0 290 0 10 120
+rotate
+x 355
+move
+125 125 0
+apply
+display
